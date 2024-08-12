@@ -1,4 +1,5 @@
-![image]([https://github.com/user-attachments/assets/6828d1ac-893c-4732-8f14-3aa4f73b8db1](https://logos-world.net/wp-content/uploads/2021/04/Upwork-Logo-2015.png)
+![Upwork-Logo-2015](https://github.com/user-attachments/assets/795f73c1-a3fe-4acf-89ae-9fab5e2f652e)
+
 # Upwork-job-EDA
 An exploratory data analysis to find the characteristics of the jobs posted on Upwork.
 
@@ -17,7 +18,7 @@ As a freelancer who’s been using the platform in the last two months, I made t
 4. Which country are the clients mostly came from?
 
 
-## Main findings:
+## Main findings
 
 Here are the conclusions and some recommendations for people who might just start your gig on Upwork:
 1. Most jobs need 6 connects to submit a proposal, so make sure you have enough connects
