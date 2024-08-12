@@ -3,7 +3,7 @@
 # Upwork-job-EDA
 An exploratory data analysis to find the characteristics of the jobs posted on Upwork.
 
-## Background
+## About Upwork
 Upwork is a freelancing platform that connects businesses with independent freelancers and professionals around the globe.
 The platform offers variety of job services such as Design & Creative, Sales & Marketing, AI Services, etc.
 To submit a proposal, freelancers need to spend some ‘Connects’. ‘Connects’ are like currency on the platform, allowing freelancers to submit proposals to clients for job opportunities. 
